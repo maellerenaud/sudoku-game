@@ -1,23 +1,22 @@
-### Lancement du fichier executable
-Télécharger le fichier play suduko.zip 
+### Lancement du jeu
+Prérequis : Installation de TensorFlow.
 
-Puis le dézipper.
-
-Lancer le fichier play.exe dans le dossier dézippé. La fenêtre de résolution s'ouvre alors.
+Clonez le dépôt et lancez le fichier play.py. La fenêtre d'upload de l'image s'ouvre alors.
 
 ### Introduction de la grille à résoudre
-Cliquer sur upload.
+Cliquez sur upload.
 
-Selectionner la photo du sudoku à résoudre.
+Selectionnez la photo du sudoku à résoudre.
 
 ### Vérification de la reconnaissance de la grille
+
+<img width="751" alt="FenêtreVérification" src="https://user-images.githubusercontent.com/58704043/111868212-eff7b000-8978-11eb-88e3-3c18ba300283.PNG">
+
 Si la photo est de basse qualité, l'algorithme de reconnaissance peut faire des erreurs.
 C'est pourquoi il est demandé de vérifier que la grille affichée est bien celle de la photo.
 Si la valeur d'une grille n'est pas celle de la photo, placer la case jaune sur cette case et entrer le bon chiffre (celui de la photo).
 
-Faites ceci pour toutes les cases fausses, puis cliquer sur "It matches".
-
-Une fenêtre de jeu s'ouvre alors.
+Faites ceci pour toutes les cases fausses, puis cliquez sur "It matches".
 
 ### Interface de jeu
 
