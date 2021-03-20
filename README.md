@@ -1,4 +1,9 @@
-### Lancement du jeu
+## Description de l'application
+Cette application implémente un jeu de sudoku interactif.
+
+Le joueur peut charger une photo d'une grille de sudoku à compléter. Un algorithme d'intelligence artificielle reconnait les chiffres présents sur la grille. Le joueur doit ensuite valider la grille ayant été détectée, ou la modifier si besoin. Une fenêtre de jeu s'ouvre alors, lui permettant de deviner les cases vides ou d'obtenir les règles du jeu. Un algorithme de backtracking va également trouver automatiquement une solution à la grille pour proposer au joueur de nouvelles fonctionnalités : vérifier toutes les cases déjà prédites, utiliser un indice pour révéler une case ou obtenir la solution complète de la grille.
+
+## Lancement du jeu
 Prérequis : Installation de TensorFlow.
 
 Clonez le dépôt et lancez le fichier play.py. La fenêtre d'upload de l'image s'ouvre alors.
