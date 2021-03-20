@@ -20,6 +20,10 @@ Faites ceci pour toutes les cases fausses, puis cliquer sur "It matches".
 Une fenêtre de jeu s'ouvre alors.
 
 ### Interface de jeu
+
+La fenêtre suivante s'ouvre :
+![CaptureEcranInterfaceGraphique](https://user-images.githubusercontent.com/58704043/111867708-1405c200-8976-11eb-9df5-f840478f05b6.png)
+
 La difficulté de la grille va de "easy" à "ultrahard". Elle est basée sur le nombre de case laissée vide. Plus il y a de cases vides, plus c'est difficile. 
 
 Ce n'est pas le seul critère de difficulté, mais c'est le seul que nous prenons en compte içi.
